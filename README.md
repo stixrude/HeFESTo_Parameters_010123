@@ -5,7 +5,7 @@ https://github.com/stixrude/HeFESToRepository
 
 If you use this parameter set, please cite:
 
-(1) Stixrude, L. and C. Lithgow-Bertelloni, Thermodynamics of mantle minerals - III. The role of iron, Geophysical Journal International, submitted, 2023.
+(1) Stixrude, L. and C. Lithgow-Bertelloni, Thermodynamics of mantle minerals - III. The role of iron, Geophysical Journal International, in press, 2024.
 
 If you also use HeFESTo, please cite the following for the source of the HeFESTo code:
 
