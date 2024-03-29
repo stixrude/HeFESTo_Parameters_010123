@@ -5,7 +5,7 @@
            300.00000        T_0 (K)                                           
          -2171.78932        F_0 (kJ/mol)                                      
             39.76200        V_0 (cm^3/mol)                                    
-           195.10354        K_0 (GPa)                                         
+           195.10349        K_0 (GPa)                                         
              4.62702        K_0 prime                                         
              0.00000        K_0K_0 prime prime (zero for third order)         
            801.86054        Theta_0 (K)                                       
@@ -25,7 +25,7 @@
              0.00000        Upper Limit of Optic Continuum                    
              0.00000        Lower Limit of Optic Continuum                    
              0.97405        gamma_0                                           
-             3.97096        q_0                                               
+             3.97087        q_0                                               
              0.00000        beta (electronic contribution)                    
              0.00000        gammael_0 (electronic contribution)               
              0.00000        q_2A_2 (anharmonic contribution)                  
@@ -35,7 +35,7 @@
              0.00000        Zero Point Pressure (1=yes)                       
            109.00000        Ambient Shear Modulus                             
              0.62795        Pressure Derivative                               
-             2.40354        Temperature Derivative                            
+             2.40350        Temperature Derivative                            
              0.00000        Critical Temperature (K)                          
              0.00000        Critical Entropy (J/mol/K)                        
              0.00000        Critical Volume (cm^3/mol)                        

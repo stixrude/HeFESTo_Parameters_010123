@@ -33,7 +33,7 @@
              0.00000        Birch-Murnaghan (0) or Vinet (1)                  
              1.00000        Einstein (0) or Debye (1)                         
              0.00000        Zero Point Pressure (1=yes)                       
-           135.02386        Ambient Shear Modulus                             
+           135.02387        Ambient Shear Modulus                             
              1.74135        Pressure Derivative                               
              1.67725        Temperature Derivative                            
              0.00000        Critical Temperature (K)                          

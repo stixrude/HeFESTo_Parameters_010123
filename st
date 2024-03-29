@@ -5,7 +5,7 @@
            300.00000        T_0 (K)                                           
           -817.12420        F_0 (kJ/mol)                                      
             14.01700        V_0 (cm^3/mol)                                    
-           305.83951        K_0 (GPa)                                         
+           305.83963        K_0 (GPa)                                         
              4.02918        K_0 prime                                         
              0.00000        K_0K_0 prime prime (zero for third order)         
           1096.06023        Theta_0 (K)                                       
@@ -24,8 +24,8 @@
              0.00000        Weight of Einstein Oscillator 4                   
              0.00000        Upper Limit of Optic Continuum                    
              0.00000        Lower Limit of Optic Continuum                    
-             1.55722        gamma_0                                           
-             2.21138        q_0                                               
+             1.55723        gamma_0                                           
+             2.21141        q_0                                               
              0.00000        beta (electronic contribution)                    
              0.00000        gammael_0 (electronic contribution)               
              0.00000        q_2A_2 (anharmonic contribution)                  
@@ -33,9 +33,9 @@
              0.00000        Birch-Murnaghan (0) or Vinet (1)                  
              1.00000        Einstein (0) or Debye (1)                         
              0.00000        Zero Point Pressure (1=yes)                       
-           228.00000        Ambient Shear Modulus                             
-             1.94044        Pressure Derivative                               
-             4.41121        Temperature Derivative                            
+           250.29392        Ambient Shear Modulus                             
+             2.29620        Pressure Derivative                               
+             5.39736        Temperature Derivative                            
          -4350.00000        Critical Temperature (K)                          
              0.01110        Critical Entropy (J/mol/K)                        
              0.00100        Critical Volume (cm^3/mol)                        

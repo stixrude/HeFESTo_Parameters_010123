@@ -1843,4 +1843,6 @@ ter greauxetal_19.
 
 819) 020422.  Not a new inversion.  Set T_C (knor) to 5.1 K.  Set T_C hepv, hlpv, fapv, hppv to 5 K.  Set V_C fea to 0.00 exactly (previously set to a very small ? negative number).  Set T_C (hc) to 13 K.  Set T_C (feri) to 11.8 K.
 
-820) 010123  Not a new inversion.  Compute uncertainties.
+820) 010123-temp  Not a new inversion.  Compute uncertainties.
+
+821) 010123.  Not a new inversion.  Include softening of shear modulus of st according to hellwigetal_03.  This was previously implemented in forward code, but completely ignored in inversion.

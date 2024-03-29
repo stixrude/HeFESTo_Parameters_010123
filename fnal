@@ -5,7 +5,7 @@
            300.00000        T_0 (K)                                           
          -5465.24703        F_0 (kJ/mol)                                      
            112.04500        V_0 (cm^3/mol)                                    
-           204.00671        K_0 (GPa)                                         
+           204.00672        K_0 (GPa)                                         
              4.31789        K_0 prime                                         
              0.00000        K_0K_0 prime prime (zero for third order)         
            788.03574        Theta_0 (K)                                       
@@ -24,7 +24,7 @@
              0.00000        Weight of Einstein Oscillator 4                   
              0.00000        Upper Limit of Optic Continuum                    
              0.00000        Lower Limit of Optic Continuum                    
-             1.43146        gamma_0                                           
+             1.43147        gamma_0                                           
              1.00000        q_0                                               
              0.00000        beta (electronic contribution)                    
              0.00000        gammael_0 (electronic contribution)               

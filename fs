@@ -5,7 +5,7 @@
            300.00000        T_0 (K)                                           
          -2224.55986        F_0 (kJ/mol)                                      
             65.94100        V_0 (cm^3/mol)                                    
-           100.54543        K_0 (GPa)                                         
+           100.54544        K_0 (GPa)                                         
              7.87556        K_0 prime                                         
              0.00000        K_0K_0 prime prime (zero for third order)         
            677.91886        Theta_0 (K)                                       
@@ -35,7 +35,7 @@
              0.00000        Zero Point Pressure (1=yes)                       
             52.00000        Ambient Shear Modulus                             
              1.54596        Pressure Derivative                               
-             1.08227        Temperature Derivative                            
+             1.08228        Temperature Derivative                            
              5.00000        Critical Temperature (K)                          
             26.76270        Critical Entropy (J/mol/K)                        
              0.00000        Critical Volume (cm^3/mol)                        
